@@ -1,0 +1,161 @@
+/*margins*/
+.centered {
+  margin-left:70px;
+}
+.qub_margin
+{
+  margin-top: 20px;
+  height:auto;
+}
+
+.color{
+  color:#398dcd;
+}
+
+.color1{
+  color:#0B243B;
+}
+
+
+.margin
+{margin-bottom: 10px;}
+
+
+.background1
+{
+  background-color: #D6E1EC; 
+}
+
+.background
+{
+  background-image: url("../Pictures/back.jpg");
+  background-attachment:fixed;
+  opacity:0.80;
+}
+
+.red
+{background-color:#ec6c8e;}
+
+
+
+.jumbotron {
+  
+  margin-bottom: 5px;
+  font-size: 21px;
+  font-weight: 200;
+  line-height: 2.1428571435;
+  color:white;
+  background-color: #8600E6;
+  opacity:0.85;
+}
+
+.my_nav
+{
+	text-shadow: 0 -1px 0 #77A2B8;
+	background-color: #166fab;
+	box-shadow: 0 1px 0 #77A2B8;
+}
+
+.my_nav .navbar-brand
+{color: #fff;}
+.my_nav {
+  text-shadow: 0 -1px 0 #77A2B8;
+  background-color: #166fab;
+  box-shadow: 0 1px 0 #77A2B8;
+}
+
+.my_nav .navbar-brand {
+  color: #fff;
+}
+.my_nav .navbar-nav > li > a {
+  color: #cdbfe3;
+}
+.my_nav .navbar-nav > li > a:hover {
+  color: #fff;
+}
+.my_nav .navbar-nav > .active > a,
+.my_nav .navbar-nav > .active > a:hover {
+  color: #fff;
+  background-color: #166fab;
+}
+
+}
+.my_nav .navbar-toggle:hover {
+  background-color: #166fab;
+}
+
+.div-color
+{color:white;}
+
+.jumbo_margin
+{margin-bottom: 20px}
+
+/*Pictures*/
+.pictures
+{
+  margin-left: 10px;
+  font-style:italic;
+  display:inline;
+}
+
+
+.pictures ul
+{
+  padding-left: 5px;
+  padding-bottom: 10px;
+  list-style-type: none;
+  display:inline;
+}
+.pictures li
+{
+  padding-left: 5px;
+  list-style-type: none;
+  display:inline-block;
+}
+
+
+/*small page*/
+/* Xtra Small */
+@media (max-width: 767px) {
+  .xs-text-centered {
+    text-align: center;
+  }
+  .sm-text-centered {
+    text-align: center;
+  }
+}
+
+/* Small */
+@media (min-width: 768px) and (max-width: 991px) {
+  .sm-dl-fit dt {
+    width: 30px;
+  }
+  .sm-dl-fit dd {
+    margin-left: 50px;
+  }
+  .sm-text-centered {
+    text-align: center;
+  }
+}
+
+/* Medium */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .sm-dl-fit dt {
+    width: 50px;
+  } 
+  .sm-dl-fit dd {
+    margin-left: 70px;
+  }
+}
+
+/* Large */
+@media (min-width: 1200px) {
+  .sm-dl-fit dt {
+    width: 50px;
+  } 
+  .sm-dl-fit dd {
+    margin-left: 70px;
+  }
+
+
+}
