@@ -1,11 +1,7 @@
 /*margins*/
+
 .centered {
   margin-left:70px;
-}
-.qub_margin
-{
-  margin-top: 20px;
-  height:auto;
 }
 
 .color{
@@ -13,13 +9,8 @@
 }
 
 .color1{
-  color:#0B243B;
+  color:#0B3B39;
 }
-
-
-.margin
-{margin-bottom: 10px;}
-
 
 .background1
 {
@@ -33,10 +24,9 @@
   opacity:0.80;
 }
 
-.red
-{background-color:#ec6c8e;}
-
-
+.align{
+  text-align:justify;
+}
 
 .jumbotron {
   
@@ -46,7 +36,7 @@
   line-height: 2.1428571435;
   color:white;
   background-color: #8600E6;
-  opacity:0.85;
+  opacity:0.90;
 }
 
 .my_nav
@@ -89,29 +79,6 @@
 
 .jumbo_margin
 {margin-bottom: 20px}
-
-/*Pictures*/
-.pictures
-{
-  margin-left: 10px;
-  font-style:italic;
-  display:inline;
-}
-
-
-.pictures ul
-{
-  padding-left: 5px;
-  padding-bottom: 10px;
-  list-style-type: none;
-  display:inline;
-}
-.pictures li
-{
-  padding-left: 5px;
-  list-style-type: none;
-  display:inline-block;
-}
 
 
 /*small page*/
