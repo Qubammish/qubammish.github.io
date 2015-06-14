@@ -4,14 +4,13 @@
   margin-left:70px;
 }
 
-.color{
-  color:gray;
-  text-shadow: 1px 0px 0.4px black;
-}
-
-.color1{
-  color:#006699;
-  text-shadow: 0.1px 1px 0px black;
+.back1{
+  margin:0px 5px 0px 25px;
+  background-color: #396690;
+  opacity: 0.7;
+  border-radius: 5px;
+  padding:0px 5px 0px 5px;
+  color:white;
 }
 
 .background1
@@ -25,6 +24,10 @@
   background-repeat: no-repeat;
   background-attachment:fixed;
   background-position: center;
+}
+
+.page_style{
+  margin-left: 5px;
 }
 
 .align{
