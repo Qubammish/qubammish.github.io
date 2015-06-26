@@ -86,6 +86,13 @@
 .jumbo_margin
 {margin-bottom: 20px}
 
+a:hover{
+  color:#ffffff;
+}
+a:visited{
+  color:#ef7d56;
+}
+
 
 /*small page*/
 /* Xtra Small */
